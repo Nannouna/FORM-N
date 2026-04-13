@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coaching Assessment</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="font-family: Arial; text-align: center; padding: 40px;">
+
+  <h1>Are You Ready to Become a Certified Coach?</h1>
+
+  <p style="font-size:18px;">
+    Take this quick assessment to discover your next step in your coaching journey.
+  </p>
+
+  <br>
+
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9yXNYLAvFi62q-_6_8tOoGy6xko39GvpHIXTB5nUyJo28vA/viewform?usp=header">
+    <button style="padding: 15px 25px; font-size:16px; cursor:pointer;">
+      Start Assessment
+    </button>
+  </a>
+
+</body>
+</html>
